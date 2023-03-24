@@ -1,6 +1,6 @@
 hi.I'm Aylin. From Turkey.
 - 🔭 I’m currently studying at **Marmara University**, Electrical Electronics Engineering
-- 🌱 I’m currently learning c language and digital desing in verilog
+- 🌱 I’m currently learning c language, java, assembly language and digital desing in verilog
 - 🤔 I’m looking for help with networking
 
 
